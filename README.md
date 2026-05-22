@@ -1,0 +1,2 @@
+# Semana07_SistemasInteligentes_AranguriPerez
+Semana 7 laboratorio de Sistemas Inteligentes
